@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adelekea679-netizen.github.io/Project-Management-Portfolio/sitemap.xml
